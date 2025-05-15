@@ -1,0 +1,7 @@
+bin
+bin-intermediate
+.DS_Store
+Application.xcodeproj
+UI-Builder.xcworkspace
+*.make
+Makefile
